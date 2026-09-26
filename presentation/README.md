@@ -1,4 +1,4 @@
-# 📑 Business Analysis Presentation
+# 📑 Business Analysis Presentation 
 
 This folder contains the executive presentation for the **Sales Performance & Forecasting Analysis** project.
 

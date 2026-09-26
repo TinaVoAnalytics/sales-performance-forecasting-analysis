@@ -1,4 +1,4 @@
-# 📗 Excel Analysis Workbook
+# 📗 Excel Analysis Workbook 
 
 This folder contains the complete interactive Excel workbook for the **Sales Performance & Forecasting Analysis** project.
 

@@ -110,7 +110,7 @@ The dataset was prepared using **Power Query** and structured for KPI analysis, 
 
 ### Interactive Sales Performance Dashboard
 
-![Sales Performance & Forecasting Dashboard](./dashboard/Sales_Performance_Forecasting_Dashboard.png)
+![Sales Performance & Forecasting Dashboard](dashboard/Sales_Performance_Forecasting_Dashboard.png)
 
 ### Executive KPIs
 

@@ -108,6 +108,10 @@ The dataset was prepared using **Power Query** and structured for KPI analysis, 
 
 ## 📊 Analysis & Dashboard
 
+### Interactive Sales Performance Dashboard
+
+![Sales Performance & Forecasting Dashboard](./dashboard/Sales_Performance_Forecasting_Dashboard.png)
+
 ### Executive KPIs
 
 | KPI | Result |
@@ -209,14 +213,9 @@ The business analysis presentation translates the technical analysis into an exe
 
 **Business Problem → Evidence → Risk → Root-Cause Hypothesis → Diagnostic Analysis → Corrective Action → Decision Support**
 
-The presentation includes:
-- Executive performance overview
-- 6P business diagnostic framework
-- Business risks and root-cause hypotheses
-- Forecasting and validation
-- SWOT analysis
-- Recommendations and corrective actions
-- Management decision-support framework
+### ▶️ Watch the Presentation
+
+[▶️ Watch Business Analysis Presentation on YouTube](https://youtu.be/LCVALfPRpNk)
 
 > 📑 See the [`presentation`](./presentation/) folder for the complete presentation.
 
@@ -256,8 +255,7 @@ sales-performance-forecasting-analysis/
     ├── README.md
     └── Sales_Performance_Forecasting_Worksheet.pdf
 
-````markdown
-    └── Sales_Performance_Forecasting_Worksheet.pdf
+
 ```
 
 ---
